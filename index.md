@@ -3,52 +3,60 @@ layout: landing
 title: home
 ---
 
-<section id="banner">
-  <div markdown="1" class="inner">
+<section>
 
-## Heroic Stoic
+## {{site.title}}
     
-This is a test
+{{site.description}}
 
-  </div>
 </section>
 
 <section id="two" class="wrapper alt style2">
-  <section class="spotlight">
-    <div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
-      <h2>Magna primis lobortis<br />
-      sed ullamcorper</h2>
-      <p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-    </div>
-  </section>
-  <section class="spotlight">
-    <div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
-      <h2>Tortor dolore feugiat<br />
-      elementum magna</h2>
-      <p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-    </div>
-  </section>
-  <section class="spotlight">
-    <div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
-      <h2>Augue eleifend aliquet<br />
-      sed condimentum</h2>
-      <p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
-    </div>
-  </section>
+
+<section class="spotlight">
+<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
+
+## Magna primis lobortis<br />sed ullamcorper
+
+Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+
+</div>
 </section>
 
-  [D&D Table Rules](TableRules.md)
+<section class="spotlight">
+<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
 
-  [Quick Link to Character Class Options](pdf/CharOpts.pdf). This will be expanded over time.
+## Tortor dolore feugiat<br />elementum magna
 
-  [My Campaign Setting (WIP)](Setting.md)
+Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
 
-  [OI! Sean and Javy! Click here for some relevant sheets!](Tuesday.md)
+</div>
+</section>
 
-  I run 5th edition D&D.
+<section class="spotlight">
+<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
 
-  [Click here for the 5e PHB](https://dnd.rem.uz/5e%20D%26D%20Books/Rulebooks/Core/Player%27s%20Handbook.pdf).
+## Augue eleifend aliquet<br />sed condimentum
 
-  This is a massive file, so you need to be patient. Open it once, and download for future use. If you want to buy it [Amazon has some pretty good deals](https://www.amazon.com/Players-Handbook-Dungeons-Dragons-Wizards/dp/0786965606), but don't feel obligated in the slightest.
+Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+</div>
+</section>
 
-  This is an attempt to force a website rebuild, please ignore...
+</section>
+
+<section>
+[D&D Table Rules](TableRules.md)
+
+[Quick Link to Character Class Options](pdf/CharOpts.pdf). This will be expanded over time.
+
+[My Campaign Setting (WIP)](Setting.md)
+
+[OI! Sean and Javy! Click here for some relevant sheets!](Tuesday.md)
+
+I run 5th edition D&D.
+
+[Click here for the 5e PHB](https://dnd.rem.uz/5e%20D%26D%20Books/Rulebooks/Core/Player%27s%20Handbook.pdf).
+
+This is a massive file, so you need to be patient. Open it once, and download for future use. If you want to buy it [Amazon has some pretty good deals](https://www.amazon.com/Players-Handbook-Dungeons-Dragons-Wizards/dp/0786965606), but don't feel obligated in the slightest.
+
+This is an attempt to force a website rebuild, please ignore...
