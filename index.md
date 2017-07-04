@@ -18,10 +18,10 @@ title: home
 <!-- One -->
 <section id="one" class="wrapper style1 special">
     <div class="inner">
-        <header class="major" markdown="1">
-## What brings you here?
+        <header class="major">
+            <h2>What brings you here?</h2>
 
-I have a number of pages you may be interested in. Either access them here, or keep scrolling for more details.
+            <p>I have a number of pages you may be interested in. Either access them here, or keep scrolling for more details.</p>
         </header>
         <ul class="icons major">
             <li><span class="icon fa-flask major style1"><span class="label">D&D</span></span></li>
