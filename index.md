@@ -5,14 +5,14 @@ title: home
 
 <!-- Banner -->
 <section id="banner">
-    <div class="inner">
-        <h2>{{ site.title }}</h2>
-        <p>{{ site.description | markdownify }}</p>
-        <ul class="actions">
-            <li><a href="#" class="button special">Activate</a></li>
-        </ul>
-    </div>
-    <a href="#one" class="more scrolly">Learn More</a>
+<div class="inner" markdown="1">
+
+## {{ site.title }}</h2>
+
+{{ site.description}}
+
+</div>
+<a href="#one" class="more scrolly">Learn More</a>
 </section>
 
 <!-- One -->
