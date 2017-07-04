@@ -20,15 +20,11 @@ title: home
     <div class="inner">
 
 <header class="major" markdown="1">
-## What brings you here?</h2>
+## What brings you here?
 
-I have a number of pages you may be interested in. Either access them here, or keep scrolling for more details.
+I have a number of pages you may be interested in. Either access them from the top bar, or keep scrolling for more details.
 </header>
-        <ul class="icons major">
-            <li><span class="icon fa-flask major style1"><span class="label">D&D</span></span></li>
-            <li><span class="icon fa-desktop major style2"><span class="label">Projects</span></span></li>
-            <li><span class="icon fa-user major style3"><span class="label">About Me</span></span></li>
-        </ul>
+
     </div>
 </section>
 
