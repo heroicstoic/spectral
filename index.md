@@ -2,6 +2,6 @@
 layout: landing
 ---
 
-## Test {{ site.title }}
+# Test
 
 {{ site.description | markdownify }}
