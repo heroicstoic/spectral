@@ -9,7 +9,7 @@ title: home
 This site will containt my D&D table rules, Personal Projects, and more, in time.
 This website is still under construction. Please understand if there is missing content.
 
-<div class="inner">
+</div>
 
 <div class-"major">
 [D&D Table Rules](TableRules.md)
