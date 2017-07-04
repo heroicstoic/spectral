@@ -20,11 +20,9 @@ title: home
     <div class="inner">
 
 <header class="major" markdown="1">
-
 ## What brings you here?
 
 I have a number of pages you may be interested in. Either access them from the top bar, or keep scrolling for more details.
-
 </header>
 
     </div>
