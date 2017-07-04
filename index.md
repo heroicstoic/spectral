@@ -3,7 +3,7 @@ layout: landing
 title: home
 ---
 
-<section markdown="1">
+<section id="banner" markdown="1">
 
 ## {{site.title}}
     
