@@ -57,6 +57,3 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
-
-kramdown:  
-  parse_block_html: true
