@@ -2,16 +2,16 @@
 layout: landing
 title: home
 ---
-<div class="inner">
 
+<section id="banner">
 ## Welcome to my temporary webpage 
 
 This site will containt my D&D table rules, Personal Projects, and more, in time.
 This website is still under construction. Please understand if there is missing content.
 
-</div>
+</section>
 
-<div class="major">
+<section class="wrapper style1 special">
 [D&D Table Rules](TableRules.md)
 
 [Quick Link to Character Class Options](pdf/CharOpts.pdf). This will be expanded over time.
@@ -27,4 +27,4 @@ I run 5th edition D&D.
 This is a massive file, so you need to be patient. Open it once, and download for future use. If you want to buy it [Amazon has some pretty good deals](https://www.amazon.com/Players-Handbook-Dungeons-Dragons-Wizards/dp/0786965606), but don't feel obligated in the slightest.
 
 This is an attempt to force a website rebuild, please ignore...
-</div>
+</section>
