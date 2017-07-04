@@ -18,16 +18,15 @@ title: home
 <!-- One -->
 <section id="one" class="wrapper style1 special">
     <div class="inner">
-        <header class="major">
-            <h2>Arcu aliquet vel lobortis ata nisl<br />
-            eget augue amet aliquet nisl cep donec</h2>
-            <p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
+        <header class="major" markdown="1">
+## What brings you here?
+
+I have a number of pages you may be interested in. Either access them here, or keep scrolling for more details.
         </header>
         <ul class="icons major">
-            <li><span class="icon fa-diamond major style1"><span class="label">Lorem</span></span></li>
-            <li><span class="icon fa-heart-o major style2"><span class="label">Ipsum</span></span></li>
-            <li><span class="icon fa-code major style3"><span class="label">Dolor</span></span></li>
+            <li><span class="icon fa-flask major style1"><span class="label">D&D</span></span></li>
+            <li><span class="icon fa-desktop major style2"><span class="label">Projects</span></span></li>
+            <li><span class="icon fa-user major style3"><span class="label">About Me</span></span></li>
         </ul>
     </div>
 </section>
