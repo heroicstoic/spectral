@@ -11,7 +11,7 @@ This website is still under construction. Please understand if there is missing 
 
 </div>
 
-<div class-"major">
+<div class="major">
 [D&D Table Rules](TableRules.md)
 
 [Quick Link to Character Class Options](pdf/CharOpts.pdf). This will be expanded over time.
