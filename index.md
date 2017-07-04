@@ -5,12 +5,12 @@ title: home
 
 <section id="banner">
   <div class="inner">
-  
-    ## Welcome to my temporary webpage 
 
-    This site will containt my D&D table rules, Personal Projects, and more, in time.
+## Welcome to my temporary webpage 
 
-    This website is still under construction. Please understand if there is missing content.
+This site will containt my D&D table rules, Personal Projects, and more, in time.
+
+This website is still under construction. Please understand if there is missing content.
     
   </div>
 </section>
