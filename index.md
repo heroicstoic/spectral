@@ -4,9 +4,12 @@ title: home
 ---
 
 <section id="banner">
-  <div class="inner">
-    <h2>{{ site.title }}</h2>
-    <p> {{ site.description | markdownify }}</p>
+  <div markdown="1" class="inner">
+
+## Heroic Stoic
+    
+This is a test
+
   </div>
 </section>
 
