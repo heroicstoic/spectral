@@ -20,7 +20,6 @@ title: home
     <div class="inner">
         <header class="major">
             <h2>What brings you here?</h2>
-
             <p>I have a number of pages you may be interested in. Either access them here, or keep scrolling for more details.</p>
         </header>
         <ul class="icons major">
