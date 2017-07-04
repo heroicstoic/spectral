@@ -58,4 +58,5 @@ markdown: kramdown
 #sass:
 #  style: compressed
 
-theme: jekyll-theme-cayman
+kramdown:  
+  parse_block_html: true
