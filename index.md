@@ -7,7 +7,7 @@ title: home
 <section id="banner">
 <div class="inner" markdown="1">
 
-## {{ site.title }}</h2>
+## {{ site.title }}
 
 {{ site.description}}
 
