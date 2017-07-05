@@ -35,6 +35,7 @@ I have a number of pages you may be interested in. Either access them from the t
 ## Dungeons and Dragons
 
 I run 5th edition Dungeons and Dragons! Go here to get access to resources, campaigns, and table rules!
+Attempting to force an update.
 </div>
 </section>
 
