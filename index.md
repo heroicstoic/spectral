@@ -35,45 +35,43 @@ I have a number of pages you may be interested in. Either access them from the t
 <img src="images/5eparty.jpg" alt="" />
 </a>
 </div>
-<div class="content" markdown="1">
 <a href="dnd.html">
+<div class="content" markdown="1">
 
 ## Dungeons and Dragons
 
 I run 5th edition Dungeons and Dragons! Go here to get access to resources, campaigns, and table rules!
 
-</a>
 </div>
-
+</a>
 </section>
 
 <section class="spotlight">
 
 <div class="image"><a href="projects.html"><img src="images/cscode.jpg" alt="" /></a></div>
 
-<div class="content" markdown="1">
 <a href="projects.html">
+<div class="content" markdown="1">
 
 ## Personal Projects
 
 As I work on various projects, I will add a sample from them here. Stay tuned for more that I am doing.
 
-</a>
 </div>
+</a>
 </section>
 
 
 <section class="spotlight">
 <div class="image"><a href="about.html"><img src="images/castle.jpg" alt="" /></a></div>
-<div class="content" markdown="1">
 <a href="about.html">
-
+<div class="content" markdown="1">
 ## About Me
 
 A short bit about my life, hobbys, and the like. I may add more, but I'm not good at talking about myself.
 
-</a>
 </div>
+</a>
 </section>
 
 </section>
