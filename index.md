@@ -64,8 +64,8 @@ As I work on various projects, I will add a sample from them here. Stay tuned fo
 
 <section class="spotlight">
 <div class="image"><a href="about.html"><img src="images/castle.jpg" alt="" /></a></div>
-<a href="about.html">
-<div class="content" markdown="1">
+<a href="about.html" class="content">
+<div markdown="1">
 ## About Me
 
 A short bit about my life, hobbys, and the like. I may add more, but I'm not good at talking about myself.
