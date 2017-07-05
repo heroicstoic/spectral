@@ -29,7 +29,7 @@ I have a number of pages you may be interested in. Either access them from the t
 <!-- Two -->
 <section id="two" class="wrapper alt style2">
 
-<a href="dnd.html">
+<a href="spectral/dnd.html">
 <section class="spotlight" >
 
 <div class="image">
