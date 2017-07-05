@@ -30,41 +30,44 @@ I have a number of pages you may be interested in. Either access them from the t
 <section id="two" class="wrapper alt style2">
 
 <section class="spotlight" >
-<a href="dnd.html">
-
 <div class="image">
+<a href="dnd.html">
 <img src="images/5eparty.jpg" alt="" />
+</a>
 </div>
 <div class="content" markdown="1">
+<a href="dnd.html">
 ## Dungeons and Dragons
 
 I run 5th edition Dungeons and Dragons! Go here to get access to resources, campaigns, and table rules!
-</div>
 </a>
+</div>
 
 </section>
 
 <section class="spotlight">
-<a href="projects.html">
-<div class="image"><img src="images/cscode.jpg" alt="" /></div>
+
+<div class="image"><a href="projects.html"><img src="images/cscode.jpg" alt="" /></a></div>
+
 <div class="content" markdown="1">
+<a href="projects.html">
 ## Personal Projects
 
 As I work on various projects, I will add a sample from them here. Stay tuned for more that I am doing.
-</div>
 </a>
+</div>
 </section>
 
 
 <section class="spotlight">
-<a href="about.html">
-<div class="image"><img src="images/castle.jpg" alt="" /></div>
+<div class="image"><a href="about.html"><img src="images/castle.jpg" alt="" /></a></div>
 <div class="content" markdown="1">
+<a href="about.html">
 ## About Me
 
 A short bit about my life, hobbys, and the like. I may add more, but I'm not good at talking about myself.
-</div>
 </a>
+</div>
 </section>
 
 </section>
