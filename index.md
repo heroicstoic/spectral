@@ -40,7 +40,7 @@ Attempting to force an update.
 </section>
 
 <section class="spotlight">
-<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+<div class="image"><img src="images/cscode.jpg" alt="" /></div><div class="content">
 <h2>Tortor dolore feugiat<br />
 elementum magna</h2>
 <p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
