@@ -61,6 +61,6 @@ A short bit about my life, hobbys, and the like. I may add more, but I'm not goo
 <!-- CTA -->
 <section id="cta" class="wrapper style4">
     <div class="inner">
-		<a href="#" class="button fit">Learn More</a>
+		<a href="#" class="button fit">Back to Top</a>
     </div>
 </section>
