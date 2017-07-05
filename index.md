@@ -61,18 +61,16 @@ As I work on various projects, I will add a sample from them here. Stay tuned fo
 </a>
 </section>
 
+	<section class="spotlight">
+		<div class="image"><a href="about.html"><img src="images/castle.jpg" alt="" /></a></div>
+		<div class="content">
+			<a href="about.html" style="width:100%;height:100%;">
+				<h2>About Me</h2>
 
-<section class="spotlight">
-<div class="image"><a href="about.html"><img src="images/castle.jpg" alt="" /></a></div>
-<a href="about.html" class="content">
-<div markdown="1">
-## About Me
-
-A short bit about my life, hobbys, and the like. I may add more, but I'm not good at talking about myself.
-
-</div>
-</a>
-</section>
+				<p>A short bit about my life, hobbys, and the like. I may add more, but I'm not good at talking about myself.<p>
+			</a>
+		</div>
+	</section>
 
 </section>
 
