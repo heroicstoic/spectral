@@ -29,8 +29,12 @@ I have a number of pages you may be interested in. Either access them from the t
 <!-- Two -->
 <section id="two" class="wrapper alt style2">
 
-<section class="spotlight" href="https://www.google.com">
-<div class="image"><img src="images/5eparty.jpg" alt="" /></div>
+<section class="spotlight" >
+<div class="image">
+<a href="https://www.google.com">
+<img src="images/5eparty.jpg" alt="" />
+</a>
+</div>
 <div class="content" markdown="1">
 ## Dungeons and Dragons
 
