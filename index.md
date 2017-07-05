@@ -37,9 +37,11 @@ I have a number of pages you may be interested in. Either access them from the t
 </div>
 <div class="content" markdown="1">
 <a href="dnd.html">
+
 ## Dungeons and Dragons
 
 I run 5th edition Dungeons and Dragons! Go here to get access to resources, campaigns, and table rules!
+
 </a>
 </div>
 
@@ -51,9 +53,11 @@ I run 5th edition Dungeons and Dragons! Go here to get access to resources, camp
 
 <div class="content" markdown="1">
 <a href="projects.html">
+
 ## Personal Projects
 
 As I work on various projects, I will add a sample from them here. Stay tuned for more that I am doing.
+
 </a>
 </div>
 </section>
@@ -63,9 +67,11 @@ As I work on various projects, I will add a sample from them here. Stay tuned fo
 <div class="image"><a href="about.html"><img src="images/castle.jpg" alt="" /></a></div>
 <div class="content" markdown="1">
 <a href="about.html">
+
 ## About Me
 
 A short bit about my life, hobbys, and the like. I may add more, but I'm not good at talking about myself.
+
 </a>
 </div>
 </section>
