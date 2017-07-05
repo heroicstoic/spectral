@@ -29,8 +29,8 @@ I have a number of pages you may be interested in. Either access them from the t
 <!-- Two -->
 <section id="two" class="wrapper alt style2">
 
-<a href="dnd.html">
 <section class="spotlight" >
+<a href="dnd.html">
 
 <div class="image">
 <img src="images/5eparty.jpg" alt="" />
@@ -40,30 +40,32 @@ I have a number of pages you may be interested in. Either access them from the t
 
 I run 5th edition Dungeons and Dragons! Go here to get access to resources, campaigns, and table rules!
 </div>
-</section>
 </a>
 
-<a href="projects.html">
+</section>
+
 <section class="spotlight">
+<a href="projects.html">
 <div class="image"><img src="images/cscode.jpg" alt="" /></div>
 <div class="content" markdown="1">
 ## Personal Projects
 
 As I work on various projects, I will add a sample from them here. Stay tuned for more that I am doing.
 </div>
-</section>
 </a>
+</section>
 
-<a href="about.html">
+
 <section class="spotlight">
+<a href="about.html">
 <div class="image"><img src="images/castle.jpg" alt="" /></div>
 <div class="content" markdown="1">
 ## About Me
 
 A short bit about my life, hobbys, and the like. I may add more, but I'm not good at talking about myself.
 </div>
-</section>
 </a>
+</section>
 
 </section>
 
