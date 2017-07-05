@@ -1,14 +1,9 @@
 ---
 layout: page
-title: Generic
+title: A test of mettle
+description: Does this work?
 ---
 
-### A test of mettle
-
-Does this work?
-
-<hr />
-
-#### This is another test
+#### This is another test of content
 
 Will it pass the test?
