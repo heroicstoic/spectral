@@ -35,23 +35,24 @@ I have a number of pages you may be interested in. Either access them from the t
 ## Dungeons and Dragons
 
 I run 5th edition Dungeons and Dragons! Go here to get access to resources, campaigns, and table rules!
-Attempting to force an update.
 </div>
 </section>
 
 <section class="spotlight">
-<div class="image"><img src="images/cscode.jpg" alt="" /></div><div class="content">
-<h2>Tortor dolore feugiat<br />
-elementum magna</h2>
-<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+<div class="image"><img src="images/cscode.jpg" alt="" /></div>
+<div class="content" markdown="1">
+## Personal Projects
+
+As I work on various projects, I will add a sample from them here. Stay tuned for more that I am doing.
 </div>
 </section>
 
 <section class="spotlight">
-<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
-<h2>Augue eleifend aliquet<br />
-sed condimentum</h2>
-<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+<div class="image"><img src="images/castle.jpg" alt="" /></div>
+<div class="content" markdown="1">
+## About Me
+
+A short bit about my life, hobbys, and the like. I may add more, but I'm not good at talking about myself.
 </div>
 </section>
 
