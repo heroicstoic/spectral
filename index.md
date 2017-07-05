@@ -30,16 +30,16 @@ I have a number of pages you may be interested in. Either access them from the t
 <section id="two" class="wrapper alt style2">
 
 <section class="spotlight" >
-<div class="image">
 <a href="https://www.google.com">
+<div class="image">
 <img src="images/5eparty.jpg" alt="" />
-</a>
 </div>
 <div class="content" markdown="1">
 ## Dungeons and Dragons
 
 I run 5th edition Dungeons and Dragons! Go here to get access to resources, campaigns, and table rules!
 </div>
+</a>
 </section>
 
 <section class="spotlight">
