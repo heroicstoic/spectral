@@ -29,7 +29,7 @@ I have a number of pages you may be interested in. Either access them from the t
 <!-- Two -->
 <section id="two" class="wrapper alt style2">
 
-<a href="https://www.google.com">
+<a href="/dnd/">
 <section class="spotlight" >
 
 <div class="image">
@@ -65,7 +65,7 @@ A short bit about my life, hobbys, and the like. I may add more, but I'm not goo
 
 <!-- CTA -->
 <section id="cta" class="wrapper style4">
-    <div class="inner">
-		<a href="#" class="button fit">Back to Top</a>
-    </div>
+<div class="inner">
+<a href="#" class="button fit">Back to Top</a>
+</div>
 </section>
