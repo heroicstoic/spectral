@@ -1,6 +1,5 @@
 ---
 layout: landing
-title: home
 ---
 
 <!-- Banner -->
