@@ -3,7 +3,7 @@
 layout: page
 title: Dungeons and Dragons
 description: When last we left our heroes...
-
+permalink: /dnd/
 ---
 
 This site is still under construction, but here are a few resources that I have to provide.
